@@ -19,4 +19,5 @@ android {
 
 dependencies {
     implementation project(':pswedittext')
+//    implementation 'com.jamesbon.pswedittext:pswedittext:1.0'
 }
